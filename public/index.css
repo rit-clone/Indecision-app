@@ -2,4 +2,8 @@ body{
     font-size: large;
     font-weight: bold;
     font-style: italic;
+    background-color: teal;
+    padding: 10%;
+    display: flex;
+    justify-content: center;
 }
